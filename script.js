@@ -7,6 +7,8 @@
 /////////////////////////////////////////////////
 // Data
 
+alert('Users and Passwords: [ao : 1111, fo : 2222, tm : 6720]')
+
 // DIFFERENT DATA! Contains movement dates, currency and locale
 
 const account1 = {
